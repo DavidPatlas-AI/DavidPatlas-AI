@@ -8,6 +8,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYg7xpzYX85wh5cptQhYR0g)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zeuzonsher)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tzvipatlas)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DavidPatlas-AI)
 
 </div>
 
@@ -34,6 +35,18 @@
 | 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים — חוטים, סוכן לכל פרויקט | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
 | 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט — Tray, Rainmeter, Excel | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
 | 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור — פיזיקה, משחקים, מחקר | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/CableVitality/index.html) |
+| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA | In dev |
+
+---
+
+## 🤖 איך אני עובד עם AI
+
+| כלי | מתי משתמש | יתרון עיקרי | חיסרון עיקרי |
+|-----|-----------|-------------|--------------|
+| **GitHub Copilot** | קוד יומיומי, PR, Issues | מוטמע ב-GitHub וב-VS Code | פחות סוכן אוטונומי על כל הפרויקט |
+| **Cursor** | משימות גדולות, סנכרון, deploy | סוכן שמריץ פקודות ועורך קבצים | פחות מוטמע ב-PR של GitHub |
+
+**שילוב:** Cursor לבנייה ותחזוקה של 60+ repos · Copilot לכתיבה מהירה וסקירות ב-GitHub.
 
 ---
 
@@ -48,6 +61,8 @@
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -72,6 +87,8 @@
 ---
 
 <div align="center">
+
+**☕ אוהב את הפרויקטים? → [GitHub Sponsors](https://github.com/sponsors/DavidPatlas-AI)**
 
 **💬 מחפש שיתוף פעולה? יש פרויקט? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
 
