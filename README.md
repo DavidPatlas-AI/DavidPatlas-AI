@@ -88,7 +88,15 @@
 
 <div align="center">
 
-**☕ אוהב את הפרויקטים? → [GitHub Sponsors](https://github.com/sponsors/DavidPatlas-AI)**
+## ☕ תמיכה בפרויקטים
+
+| אפשרות | יתרון | חיסרון |
+|--------|-------|--------|
+| **[GitHub Sponsors](https://github.com/sponsors/DavidPatlas-AI)** | רשמי, מוצג בפרופיל, חודשי | דורש הרשמה + Stripe |
+| **[תיק עבודות](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)** | רואים הכל לפני שיתוף פעולה | לא תרומה ישירה |
+| **[מייל](mailto:susp4514@gmail.com)** | שיתוף פעולה / פרויקט מותאם | לא אוטומטי |
+
+**רמות Sponsors מומלצות:** ☕ $3 · 🚀 $10 · 💎 $25
 
 **💬 מחפש שיתוף פעולה? יש פרויקט? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
 
