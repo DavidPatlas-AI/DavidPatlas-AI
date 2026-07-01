@@ -19,7 +19,7 @@
 בניתי **60+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
 הקוד שלי **משרת קהילה** — בעברית, רוסית ואנגלית.
 
-🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — 45 פרויקטים · 0 שבורים · בדיקת URL בזמן אמת.
+🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — 46 פרויקטים · 0 שבורים · בדיקת URL בזמן אמת.
 
 ---
 
@@ -35,7 +35,8 @@
 | 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים — חוטים, סוכן לכל פרויקט | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
 | 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט — Tray, Rainmeter, Excel | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
 | 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור — פיזיקה, משחקים, מחקר | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/CableVitality/index.html) |
-| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA | In dev |
+| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA | [🌐 Live](https://mishnat-yosef-dashboard.netlify.app) |
+| 🖥️ [AI Terminals](https://github.com/DavidPatlas-AI/ai-terminals) | מרכז הפעלה לטרמינלי AI ב-Windows — dashboard, RTL, security-check | [📦 Repo](https://github.com/DavidPatlas-AI/ai-terminals) |
 
 ---
 
