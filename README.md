@@ -48,6 +48,23 @@
 
 **שילוב:** Cursor לבנייה ותחזוקה של 60+ repos · Copilot לכתיבה מהירה וסקירות ב-GitHub.
 
+### ⚡ הגדרת Copilot Pro ב-VS Code (5 דקות)
+
+1. **מנוי** — [github.com/features/copilot](https://github.com/features/copilot) → Pro ($10/חודש) או Free
+2. **VS Code** — התקן [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) + [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+3. **התחברות** — `Ctrl+Shift+P` → `GitHub: Sign in`
+4. **שימוש יומיומי:**
+   - `Tab` — השלמת שורה / בלוק
+   - `Ctrl+I` — עריכה inline לפי הוראה
+   - `Ctrl+Shift+I` — Copilot Chat (שאל על קובץ / PR)
+5. **ב-GitHub:** סיכום PR אוטומטי, הצעות ב-Issues, Copilot ב-Codespaces
+
+| תוכנית | מחיר | מתאים ל |
+|--------|------|---------|
+| Free | $0 | התנסות, מכסה מוגבלת |
+| Pro | $10 | עבודה יומיומית, chat, agent |
+| Pro+ | $39 | שימוש כבד, מודלים premium |
+
 ---
 
 ## 🛠️ Stack
