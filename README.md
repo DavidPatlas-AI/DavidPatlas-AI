@@ -15,7 +15,7 @@
 
 ## 🚀 מה אני בונה
 
-בניתי **58+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
+בניתי **60+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
 הקוד שלי **משרת קהילה** — בעברית, רוסית ואנגלית.
 
 🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — בודקת בזמן אמת מה עובד, מה דמו ומה שבור.
@@ -29,8 +29,7 @@
 | 🎓 [מתמטיקה לחרדים](https://github.com/DavidPatlas-AI/math-haredim) | פלטפורמת מתמטיקה מלאה — 90+ שיעורים, GeoGebra, PWA | [🌐 Live](https://math-haredim.netlify.app) |
 | 🔧 [מסלול רכב](https://github.com/DavidPatlas-AI/maslul-rechev) | קורס מכונאות — 19,000+ רכבים, מוסך חי, בוט ווצאפ | [🌐 Live](https://maslul-rechev-2026.netlify.app) |
 | 📎 [האלגוריתם שחזר בתשובה](https://github.com/DavidPatlas-AI/teshuva-algorithm) | שקיפות אלגוריתמית — מסביר למה ראית כל פוסט, בעברית | [🌐 Live](https://teshuva-algorithm.netlify.app) |
-| ▶️ [CodePlayer](https://github.com/DavidPatlas-AI/code-player) | נגן קוד שמשמיע כל שורה בצליל — ללמידה והרצאות | [🌐 Live](https://davidpatlas-ai.github.io/code-player/) |
-| 📡 [MorseViz](https://github.com/DavidPatlas-AI/morseviz) | בונה מילים בקוד מורס — ויזואליזציה והשמעה | [🌐 Live](https://davidpatlas-ai.github.io/morseviz/) |
+| 📻 [SignalLab](https://github.com/DavidPatlas-AI/signal-lab) | מעבדת אותות מאוחדת: MorseViz + CodePlayer + מסמך חקירה | [🌐 Live](https://davidpatlas-ai.github.io/signal-lab/) |
 | 🕍 [YomiWidget](https://github.com/DavidPatlas-AI/YomiWidget) | ויג'ט שולחן עבודה: תאריך עברי, פרשה, זמני היום | Desktop |
 | 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים — חוטים, סוכן לכל פרויקט | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
 | 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט — Tray, Rainmeter, Excel | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
