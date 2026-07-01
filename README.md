@@ -112,8 +112,14 @@
 | **[GitHub Sponsors](https://github.com/sponsors/DavidPatlas-AI)** | רשמי, מוצג בפרופיל, חודשי | דורש הרשמה + Stripe |
 | **[תיק עבודות](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)** | רואים הכל לפני שיתוף פעולה | לא תרומה ישירה |
 | **[מייל](mailto:susp4514@gmail.com)** | שיתוף פעולה / פרויקט מותאם | לא אוטומטי |
+| **Buy Me a Coffee** *(בקרוב)* | תרומה חד-פעמית קלה | לא מוטמע ב-GitHub |
 
 **רמות Sponsors מומלצות:** ☕ $3 · 🚀 $10 · 💎 $25
+
+### 📌 נעיצת Repos (ידני — אין API)
+
+פרופיל → **Customize your pins** → בחר 6:
+`math-haredim` · `maslul-rechev` · `teshuva-algorithm` · `signal-lab` · `bridgeos` · `mishnat-yosef`
 
 **💬 מחפש שיתוף פעולה? יש פרויקט? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
 
