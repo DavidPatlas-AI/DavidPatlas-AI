@@ -3,7 +3,8 @@
 # שלום, אני דוד פטלס 👋
 ### Full Stack Developer · Digital Creator · Jewish Tech Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c6af5?style=for-the-badge&logo=firefox&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c6af5?style=for-the-badge&logo=firefox&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)
+[![Status Map](https://img.shields.io/badge/Status_Map-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYg7xpzYX85wh5cptQhYR0g)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zeuzonsher)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tzvipatlas)
@@ -14,8 +15,10 @@
 
 ## 🚀 מה אני בונה
 
-בניתי **52+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
+בניתי **58+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
 הקוד שלי **משרת קהילה** — בעברית, רוסית ואנגלית.
+
+🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — בודקת בזמן אמת מה עובד, מה דמו ומה שבור.
 
 ---
 
@@ -26,9 +29,12 @@
 | 🎓 [מתמטיקה לחרדים](https://github.com/DavidPatlas-AI/math-haredim) | פלטפורמת מתמטיקה מלאה — 90+ שיעורים, GeoGebra, PWA | [🌐 Live](https://math-haredim.netlify.app) |
 | 🔧 [מסלול רכב](https://github.com/DavidPatlas-AI/maslul-rechev) | קורס מכונאות — 19,000+ רכבים, מוסך חי, בוט ווצאפ | [🌐 Live](https://maslul-rechev-2026.netlify.app) |
 | 📎 [האלגוריתם שחזר בתשובה](https://github.com/DavidPatlas-AI/teshuva-algorithm) | שקיפות אלגוריתמית — מסביר למה ראית כל פוסט, בעברית | [🌐 Live](https://teshuva-algorithm.netlify.app) |
+| ▶️ [CodePlayer](https://github.com/DavidPatlas-AI/code-player) | נגן קוד שמשמיע כל שורה בצליל — ללמידה והרצאות | [🌐 Live](https://davidpatlas-ai.github.io/code-player/) |
+| 📡 [MorseViz](https://github.com/DavidPatlas-AI/morseviz) | בונה מילים בקוד מורס — ויזואליזציה והשמעה | [🌐 Live](https://davidpatlas-ai.github.io/morseviz/) |
 | 🕍 [YomiWidget](https://github.com/DavidPatlas-AI/YomiWidget) | ויג'ט שולחן עבודה: תאריך עברי, פרשה, זמני היום | Desktop |
-| 🍋 [Etrog AI Studio](https://github.com/DavidPatlas-AI/etrog-ai-studio) | זיהוי פסולים וכתמים — Computer Vision | WIP |
-| 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור — פיזיקה, משחקים, מחקר | WIP |
+| 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים — חוטים, סוכן לכל פרויקט | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
+| 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט — Tray, Rainmeter, Excel | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
+| 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור — פיזיקה, משחקים, מחקר | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/CableVitality/index.html) |
 
 ---
 
