@@ -1,7 +1,7 @@
 <div align="center">
 
 # שלום, אני דוד פטלס 👋
-### Full Stack Developer · Digital Creator · Jewish Tech Builder
+### Full Stack Developer · Digital Creator · Jewish Tech Builder · Patlas Digital
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c6af5?style=for-the-badge&logo=firefox&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)
 [![Status Map](https://img.shields.io/badge/Status_Map-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)
@@ -19,7 +19,7 @@
 בניתי **60+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
 הקוד שלי **משרת קהילה** — בעברית, רוסית ואנגלית.
 
-🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — בודקת בזמן אמת מה עובד, מה דמו ומה שבור.
+🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — 45 פרויקטים · 0 שבורים · בדיקת URL בזמן אמת.
 
 ---
 
