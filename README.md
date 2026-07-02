@@ -1,7 +1,7 @@
 <div align="center">
 
 # שלום, אני דוד פטלס 👋
-### Full Stack Developer · Digital Creator · Jewish Tech Builder · Patlas Digital
+### Full Stack Developer · AI Products · Education Platforms · Jewish Tech · Automation
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c6af5?style=for-the-badge&logo=firefox&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)
 [![Status Map](https://img.shields.io/badge/Status_Map-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)
@@ -16,27 +16,36 @@
 
 ## 🚀 מה אני בונה
 
-בניתי **60+ פרויקטים** — פלטפורמות חינוכיות לקהילה החרדית, כלי AI, משחקי HTML5, ויג'טים לשולחן עבודה, ומערכות CRM.  
-הקוד שלי **משרת קהילה** — בעברית, רוסית ואנגלית.
+אני בונה **פלטפורמות מבוססות AI, בעברית קודם כל** — לחינוך, לקהילה ולעסקים.
+הקוד שלי פותר בעיות אמיתיות ומשרת קהילה — בעברית, רוסית ואנגלית.
 
 🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — 46 פרויקטים · 0 שבורים · בדיקת URL בזמן אמת.
 
 ---
 
-## ⭐ פרויקטי דגל
+## ⭐ 3 מוצרים נבחרים
 
-| פרויקט | תיאור | דמו |
-|--------|-------|-----|
-| 🎓 [מתמטיקה לחרדים](https://github.com/DavidPatlas-AI/math-haredim) | פלטפורמת מתמטיקה מלאה — 90+ שיעורים, GeoGebra, PWA | [🌐 Live](https://math-haredim.netlify.app) |
-| 🔧 [מסלול רכב](https://github.com/DavidPatlas-AI/maslul-rechev) | קורס מכונאות — 19,000+ רכבים, מוסך חי, בוט ווצאפ | [🌐 Live](https://maslul-rechev-2026.netlify.app) |
-| 📎 [האלגוריתם שחזר בתשובה](https://github.com/DavidPatlas-AI/teshuva-algorithm) | שקיפות אלגוריתמית — מסביר למה ראית כל פוסט, בעברית | [🌐 Live](https://teshuva-algorithm.netlify.app) |
+| פרויקט | הבעיה שהוא פותר | דמו |
+|--------|-----------------|-----|
+| 🎓 [מתמטיקה לחרדים](https://github.com/DavidPatlas-AI/math-haredim) | הכנה למה"ט ולבגרות לקהילה החרדית — 90+ שיעורים, GeoGebra, PWA | [🌐 Live](https://math-haredim.netlify.app) |
+| 🔧 [מסלול רכב](https://github.com/DavidPatlas-AI/maslul-rechev) | קורס מכונאות רכב אינטראקטיבי — 19,000+ רכבים, מוסך חי, בוט ווצאפ | [🌐 Live](https://maslul-rechev-2026.netlify.app) |
+| 📎 [האלגוריתם שחזר בתשובה](https://github.com/DavidPatlas-AI/teshuva-algorithm) | שקיפות אלגוריתמית — מסביר למה אתה רואה כל פוסט ברשת, בעברית | [🌐 Live](https://teshuva-algorithm.netlify.app) |
+
+---
+
+## 🧪 פרויקטים נוספים
+
+| פרויקט | תיאור | קישור |
+|--------|-------|-------|
 | 📻 [SignalLab](https://github.com/DavidPatlas-AI/signal-lab) | מעבדת אותות מאוחדת: MorseViz + CodePlayer + מסמך חקירה | [🌐 Live](https://davidpatlas-ai.github.io/signal-lab/) |
+| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA | [🌐 Live](https://mishnat-yosef-dashboard.netlify.app) |
 | 🕍 [YomiWidget](https://github.com/DavidPatlas-AI/YomiWidget) | ויג'ט שולחן עבודה: תאריך עברי, פרשה, זמני היום | Desktop |
 | 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים — חוטים, סוכן לכל פרויקט | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
 | 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט — Tray, Rainmeter, Excel | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
 | 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור — פיזיקה, משחקים, מחקר | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/CableVitality/index.html) |
-| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA | [🌐 Live](https://mishnat-yosef-dashboard.netlify.app) |
 | 🖥️ [AI Terminals](https://github.com/DavidPatlas-AI/ai-terminals) | מרכז הפעלה לטרמינלי AI ב-Windows — dashboard, RTL, security-check | [📦 Repo](https://github.com/DavidPatlas-AI/ai-terminals) |
+
+**[→ ארכיון מלא של 60+ פרויקטים בתיק העבודות](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)**
 
 ---
 
@@ -120,7 +129,7 @@
 ### 📌 נעיצת Repos (ידני — אין API)
 
 פרופיל → **Customize your pins** → בחר 6:
-`math-haredim` · `maslul-rechev` · `teshuva-algorithm` · `signal-lab` · `bridgeos` · `mishnat-yosef`
+`portfolio` · `math-haredim` · `maslul-rechev` · `signal-lab` · `mishnat-yosef` · `teshuva-algorithm`
 
 **💬 מחפש שיתוף פעולה? יש פרויקט? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
 
