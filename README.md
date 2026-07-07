@@ -51,29 +51,7 @@
 
 ## 🤖 איך אני עובד עם AI
 
-| כלי | מתי משתמש | יתרון עיקרי | חיסרון עיקרי |
-|-----|-----------|-------------|--------------|
-| **GitHub Copilot** | קוד יומיומי, PR, Issues | מוטמע ב-GitHub וב-VS Code | פחות סוכן אוטונומי על כל הפרויקט |
-| **Cursor** | משימות גדולות, סנכרון, deploy | סוכן שמריץ פקודות ועורך קבצים | פחות מוטמע ב-PR של GitHub |
-
-**שילוב:** Cursor לבנייה ותחזוקה של 60+ repos · Copilot לכתיבה מהירה וסקירות ב-GitHub.
-
-### ⚡ הגדרת Copilot Pro ב-VS Code (5 דקות)
-
-1. **מנוי** — [github.com/features/copilot](https://github.com/features/copilot) → Pro ($10/חודש) או Free
-2. **VS Code** — התקן [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) + [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-3. **התחברות** — `Ctrl+Shift+P` → `GitHub: Sign in`
-4. **שימוש יומיומי:**
-   - `Tab` — השלמת שורה / בלוק
-   - `Ctrl+I` — עריכה inline לפי הוראה
-   - `Ctrl+Shift+I` — Copilot Chat (שאל על קובץ / PR)
-5. **ב-GitHub:** סיכום PR אוטומטי, הצעות ב-Issues, Copilot ב-Codespaces
-
-| תוכנית | מחיר | מתאים ל |
-|--------|------|---------|
-| Free | $0 | התנסות, מכסה מוגבלת |
-| Pro | $10 | עבודה יומיומית, chat, agent |
-| Pro+ | $39 | שימוש כבד, מודלים premium |
+Cursor לבנייה ותחזוקה של 60+ repos · GitHub Copilot לכתיבה מהירה וסקירות ב-GitHub.
 
 ---
 
@@ -97,8 +75,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidPatlas-AI&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPatlas-AI&layout=compact&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/DavidPatlas-AI?style=for-the-badge&logo=github&label=Followers&color=7c6af5)
+![Repos](https://img.shields.io/badge/Public_Repos-44-22c55e?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidPatlas-AI&color=7c6af5&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -132,7 +111,5 @@
 `portfolio` · `math-haredim` · `maslul-rechev` · `signal-lab` · `mishnat-yosef` · `teshuva-algorithm`
 
 **💬 מחפש שיתוף פעולה? יש פרויקט? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=DavidPatlas-AI&color=7c6af5&style=flat)
 
 </div>
