@@ -14,44 +14,46 @@
 
 ---
 
-## 🚀 מה אני בונה
+## 🚀 מה אני בונה | What I Build
 
-אני בונה **פלטפורמות מבוססות AI, בעברית קודם כל** — לחינוך, לקהילה ולעסקים.
-הקוד שלי פותר בעיות אמיתיות ומשרת קהילה — בעברית, רוסית ואנגלית.
+**עברית:** אני בונה פלטפורמות מבוססות AI, בעברית קודם כל — לחינוך, לקהילה ולעסקים. הקוד שלי פותר בעיות אמיתיות ומשרת קהילה, בעברית, רוסית ואנגלית.
 
-🗺️ **[מפת סטטוס פרויקטים](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — 46 פרויקטים · 0 שבורים · בדיקת URL בזמן אמת.
+**English:** I build AI-powered digital platforms, Hebrew-first — for education, community, and business. My code solves real problems and serves real users, in Hebrew, Russian, and English.
 
----
-
-## ⭐ 3 מוצרים נבחרים
-
-| פרויקט | הבעיה שהוא פותר | דמו |
-|--------|-----------------|-----|
-| 🎓 [מתמטיקה לחרדים](https://github.com/DavidPatlas-AI/math-haredim) | הכנה למה"ט ולבגרות לקהילה החרדית — 90+ שיעורים, GeoGebra, PWA | [🌐 Live](https://math-haredim.netlify.app) |
-| 🔧 [מסלול רכב](https://github.com/DavidPatlas-AI/maslul-rechev) | קורס מכונאות רכב אינטראקטיבי — 19,000+ רכבים, מוסך חי, בוט ווצאפ | [🌐 Live](https://maslul-rechev-2026.netlify.app) |
-| 📎 [האלגוריתם שחזר בתשובה](https://github.com/DavidPatlas-AI/teshuva-algorithm) | שקיפות אלגוריתמית — מסביר למה אתה רואה כל פוסט ברשת, בעברית | [🌐 Live](https://teshuva-algorithm.netlify.app) |
+🗺️ **[מפת סטטוס פרויקטים · Status Map](https://storied-alfajores-6f10d2.netlify.app/status-dashboard.html)** — 46 פרויקטים · 0 שבורים · בדיקת URL בזמן אמת · 46 projects · 0 broken · live URL checks.
 
 ---
 
-## 🧪 פרויקטים נוספים
+## ⭐ 3 מוצרים נבחרים | Featured Products
 
-| פרויקט | תיאור | קישור |
-|--------|-------|-------|
-| 📻 [SignalLab](https://github.com/DavidPatlas-AI/signal-lab) | מעבדת אותות מאוחדת: MorseViz + CodePlayer + מסמך חקירה | [🌐 Live](https://davidpatlas-ai.github.io/signal-lab/) |
-| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA | [🌐 Live](https://mishnat-yosef-dashboard.netlify.app) |
-| 🕍 [YomiWidget](https://github.com/DavidPatlas-AI/YomiWidget) | ויג'ט שולחן עבודה: תאריך עברי, פרשה, זמני היום | Desktop |
-| 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים — חוטים, סוכן לכל פרויקט | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
-| 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט — Tray, Rainmeter, Excel | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
-| 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור — פיזיקה, משחקים, מחקר | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/CableVitality/index.html) |
-| 🖥️ [AI Terminals](https://github.com/DavidPatlas-AI/ai-terminals) | מרכז הפעלה לטרמינלי AI ב-Windows — dashboard, RTL, security-check | [📦 Repo](https://github.com/DavidPatlas-AI/ai-terminals) |
-
-**[→ ארכיון מלא של 60+ פרויקטים בתיק העבודות](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)**
+| פרויקט · Project | הבעיה שהוא פותר · Problem it solves | דמו · Demo |
+|---|---|---|
+| 🎓 [מתמטיקה לחרדים](https://github.com/DavidPatlas-AI/math-haredim)<br>**Math for Haredim** | הכנה למה"ט ולבגרות לקהילה החרדית — 90+ שיעורים, GeoGebra, PWA.<br>Exam prep for the Haredi community — 90+ lessons, GeoGebra, PWA. | [🌐 Live](https://math-haredim.netlify.app) |
+| 🔧 [מסלול רכב](https://github.com/DavidPatlas-AI/maslul-rechev)<br>**Car Mechanics Course** | קורס מכונאות רכב אינטראקטיבי — 19,000+ רכבים, מוסך חי, בוט ווצאפ.<br>Interactive mechanics course — 19,000+ vehicle database, live garage, WhatsApp bot. | [🌐 Live](https://maslul-rechev-2026.netlify.app) |
+| 📎 [האלגוריתם שחזר בתשובה](https://github.com/DavidPatlas-AI/teshuva-algorithm)<br>**The Algorithm That Repented** | שקיפות אלגוריתמית — מסביר למה אתה רואה כל פוסט ברשת, בעברית.<br>Algorithmic transparency — a browser extension + AI agent that explains why you see every post. | [🌐 Live](https://teshuva-algorithm.netlify.app) |
 
 ---
 
-## 🤖 איך אני עובד עם AI
+## 🧪 פרויקטים נוספים | More Projects
+
+| פרויקט · Project | תיאור · Description | קישור · Link |
+|---|---|---|
+| 📻 [SignalLab](https://github.com/DavidPatlas-AI/signal-lab) | מעבדת אותות מאוחדת: MorseViz + CodePlayer + מסמך חקירה · Unified signal lab: MorseViz + CodePlayer + investigation doc | [🌐 Live](https://davidpatlas-ai.github.io/signal-lab/) |
+| 🛒 [משנת יוסף](https://github.com/DavidPatlas-AI/mishnat-yosef) | פורטל לקוחות — Firebase, Netlify Functions, PWA · Customer portal — Firebase, Netlify Functions, PWA | [🌐 Live](https://mishnat-yosef-dashboard.netlify.app) |
+| 🕍 [YomiWidget](https://github.com/DavidPatlas-AI/YomiWidget) | ויג'ט שולחן עבודה: תאריך עברי, פרשה, זמני היום · Desktop widget: Hebrew date, weekly Torah portion, prayer times | Desktop |
+| 🧵 [BridgeOS](https://github.com/DavidPatlas-AI/bridgeos) | מוח 3D לניהול פרויקטים · 3D workspace for managing projects | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/BridgeOS/index.html) |
+| 📂 [Recent Files](https://github.com/DavidPatlas-AI/recent-files-by-project) | קבצים אחרונים לפי פרויקט · Recent files grouped by project | [🎬 Demo](https://storied-alfajores-6f10d2.netlify.app/RecentFiles/index.html) |
+| 🚁 [CableVitality](https://github.com/DavidPatlas-AI/cable-vitality) | סימולציית רחפן קשור · Tethered-drone physics simulation | [🌐 Demo](https://storied-alfajores-6f10d2.netlify.app/CableVitality/index.html) |
+| 🖥️ [AI Terminals](https://github.com/DavidPatlas-AI/ai-terminals) | מרכז הפעלה לטרמינלי AI ב-Windows · Dashboard for Windows AI CLI tools | [📦 Repo](https://github.com/DavidPatlas-AI/ai-terminals) |
+
+**[→ ארכיון מלא של 60+ פרויקטים בתיק העבודות · Full archive of 60+ projects](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)**
+
+---
+
+## 🤖 איך אני עובד עם AI | How I Work With AI
 
 Cursor לבנייה ותחזוקה של 60+ repos · GitHub Copilot לכתיבה מהירה וסקירות ב-GitHub.
+Cursor for building & maintaining 60+ repos · GitHub Copilot for fast writing and code review.
 
 ---
 
@@ -71,7 +73,7 @@ Cursor לבנייה ותחזוקה של 60+ repos · GitHub Copilot לכתיבה
 
 ---
 
-## 📊 GitHub Stats
+## 📊 סטטיסטיקות | GitHub Stats
 
 <div align="center">
 
@@ -83,33 +85,33 @@ Cursor לבנייה ותחזוקה של 60+ repos · GitHub Copilot לכתיבה
 
 ---
 
-## 🌐 נוכחות דיגיטלית
+## 🌐 נוכחות דיגיטלית | Digital Presence
 
-- 📺 **YouTube** — שיעורי תורה, פרשת שבוע ומשניות בעברית ורוסית
-- 🌍 **[zvi-patlas.com](https://zvi-patlas.com)** — פלטפורמת לימוד יהודית
-- 🐦 **[@zeuzonsher](https://x.com/zeuzonsher)** — פרויקטים ומחשבות על AI ופיתוח
-- 📱 **[@tzvipatlas](https://www.tiktok.com/@tzvipatlas)** — תוכן יהודי קצר
+- 📺 **YouTube** — שיעורי תורה, פרשת שבוע ומשניות בעברית ורוסית · Torah lessons, weekly portion & Mishna in Hebrew and Russian
+- 🌍 **[zvi-patlas.com](https://zvi-patlas.com)** — פלטפורמת לימוד יהודית · Jewish learning platform
+- 🐦 **[@zeuzonsher](https://x.com/zeuzonsher)** — פרויקטים ומחשבות על AI ופיתוח · Projects and thoughts on AI & development
+- 📱 **[@tzvipatlas](https://www.tiktok.com/@tzvipatlas)** — תוכן יהודי קצר · Short-form Jewish content
 
 ---
 
 <div align="center">
 
-## ☕ תמיכה בפרויקטים
+## ☕ תמיכה בפרויקטים | Support the Work
 
-| אפשרות | יתרון | חיסרון |
-|--------|-------|--------|
-| **[GitHub Sponsors](https://github.com/sponsors/DavidPatlas-AI)** | רשמי, מוצג בפרופיל, חודשי | דורש הרשמה + Stripe |
-| **[תיק עבודות](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)** | רואים הכל לפני שיתוף פעולה | לא תרומה ישירה |
-| **[מייל](mailto:susp4514@gmail.com)** | שיתוף פעולה / פרויקט מותאם | לא אוטומטי |
-| **Buy Me a Coffee** *(בקרוב)* | תרומה חד-פעמית קלה | לא מוטמע ב-GitHub |
+| אפשרות · Option | יתרון · Pro | חיסרון · Con |
+|---|---|---|
+| **[GitHub Sponsors](https://github.com/sponsors/DavidPatlas-AI)** | רשמי, מוצג בפרופיל, חודשי · Official, on-profile, monthly | דורש הרשמה + Stripe · Needs signup + Stripe |
+| **[תיק עבודות · Portfolio](https://storied-alfajores-6f10d2.netlify.app/portfolio.html)** | רואים הכל לפני שיתוף פעולה · See everything before collaborating | לא תרומה ישירה · Not a direct donation |
+| **[מייל · Email](mailto:susp4514@gmail.com)** | שיתוף פעולה / פרויקט מותאם · Collaboration / custom project | לא אוטומטי · Not automated |
+| **Buy Me a Coffee** *(בקרוב · coming soon)* | תרומה חד-פעמית קלה · Easy one-time tip | לא מוטמע ב-GitHub · Not embedded in GitHub |
 
-**רמות Sponsors מומלצות:** ☕ $3 · 🚀 $10 · 💎 $25
+**רמות Sponsors מומלצות · Suggested tiers:** ☕ $3 · 🚀 $10 · 💎 $25
 
-### 📌 נעיצת Repos (ידני — אין API)
+### 📌 נעיצת Repos · Pinned Repos (ידני — אין API · manual — no API)
 
-פרופיל → **Customize your pins** → בחר 6:
+פרופיל → **Customize your pins** → בחר 6 · Profile → **Customize your pins** → pick 6:
 `portfolio` · `math-haredim` · `maslul-rechev` · `signal-lab` · `mishnat-yosef` · `teshuva-algorithm`
 
-**💬 מחפש שיתוף פעולה? יש פרויקט? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
+**💬 מחפש שיתוף פעולה? יש פרויקט? · Looking to collaborate? Have a project? → [susp4514@gmail.com](mailto:susp4514@gmail.com)**
 
 </div>
